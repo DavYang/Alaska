@@ -3,10 +3,6 @@
 
 ## Overview
 
-This itinerary takes you through Alaska's most spectacular landscapes while balancing adventure with practical logistics. Starting and ending in Anchorage, you'll experience Denali National Park, the Kenai Peninsula, glaciers, wildlife, and world-class fishing—all optimized for active men in their late 20s seeking immersive nature experiences.
-
-![Alaska Travel Route](alaska_route.svg)
-
 ## Daily Itinerary
 
 Refer to the [complete itinerary spreadsheet](alaska_itinerary.csv) for a detailed breakdown of each day, including costs, reservation requirements, and safety considerations.
@@ -70,11 +66,6 @@ Refer to the [complete itinerary spreadsheet](alaska_itinerary.csv) for a detail
 - **Recommended vehicle**: SUV with AWD (Ford Escape, Subaru Forester, or similar)
   - Estimated cost: $900-1,100 for 9 days ($300-370 per person)
   - Book 3-4 months in advance for best rates
-  - Consider adding a second driver (often $10-15/day)
-
-### Alaska Railroad Option
-- While scenic, the railroad doesn't offer the flexibility needed for this itinerary
-- Could be incorporated for Anchorage to Denali segment if desired ($176 per person)
 
 ## Cost Breakdown
 
