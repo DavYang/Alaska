@@ -1,0 +1,34 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Alaska outline (simplified) -->
+  <path d="M100,300 C150,250 200,230 300,250 C400,270 500,250 600,300 C550,350 450,370 350,350 C250,330 150,350 100,300" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  
+  <!-- Main cities -->
+  <circle cx="350" cy="300" r="8" fill="red"/> <!-- Anchorage -->
+  <circle cx="280" cy="180" r="6" fill="blue"/> <!-- Denali -->
+  <circle cx="450" cy="380" r="6" fill="blue"/> <!-- Seward -->
+  <circle cx="500" cy="420" r="6" fill="blue"/> <!-- Homer -->
+  <circle cx="300" cy="350" r="6" fill="blue"/> <!-- Palmer/Wasilla -->
+  
+  <!-- Route lines -->
+  <path d="M350,300 L280,180 L350,300 L450,380 L500,420 L300,350 L350,300" fill="none" stroke="green" stroke-width="3" stroke-dasharray="5,5"/>
+  
+  <!-- Labels -->
+  <text x="350" y="290" font-family="Arial" font-size="12" text-anchor="middle">Anchorage</text>
+  <text x="280" y="170" font-family="Arial" font-size="12" text-anchor="middle">Denali NP</text>
+  <text x="450" y="370" font-family="Arial" font-size="12" text-anchor="middle">Seward</text>
+  <text x="500" y="410" font-family="Arial" font-size="12" text-anchor="middle">Homer</text>
+  <text x="300" y="340" font-family="Arial" font-size="12" text-anchor="middle">Palmer</text>
+  
+  <!-- Legend -->
+  <rect x="550" y="100" width="120" height="100" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="570" cy="120" r="6" fill="red"/>
+  <text x="590" y="125" font-family="Arial" font-size="12">Start/End Point</text>
+  <circle cx="570" cy="150" r="6" fill="blue"/>
+  <text x="590" y="155" font-family="Arial" font-size="12">Destination</text>
+  <line x1="560" y1="180" x2="580" y2="180" stroke="green" stroke-width="3" stroke-dasharray="5,5"/>
+  <text x="590" y="185" font-family="Arial" font-size="12">Travel Route</text>
+  
+  <!-- Title -->
+  <text x="350" y="50" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">Alaska Adventure Itinerary</text>
+  <text x="350" y="80" font-family="Arial" font-size="14" text-anchor="middle">August 2-10, 2025</text>
+</svg>
