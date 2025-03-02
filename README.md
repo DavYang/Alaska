@@ -1,6 +1,4 @@
 # Alaska Adventure: August 2-10, 2025
-*An action-packed 9-day itinerary for three adventurous friends*
-
 ## Overview
 
 ## Daily Itinerary
@@ -242,4 +240,3 @@ Refer to the [complete itinerary spreadsheet](alaska_itinerary.csv) for a detail
 - Denali National Park: (907) 683-9532
 - Kenai Fjords National Park: (907) 422-0500
 
-Enjoy your Alaskan adventure! This itinerary balances ambitious exploration with reasonable logistics, allowing you to experience the best of Alaska's wilderness while maintaining safety and budget awareness.
